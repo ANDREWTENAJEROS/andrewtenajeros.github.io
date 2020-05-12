@@ -1469,6 +1469,27 @@ body {
 .cid-rbJoRZtFjy .mbr-section-subtitle {
   color: #767676;
 }
+.cid-bg2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-2-bg2.jpg");
+}
+.cid-bg2 .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+  text-align: left;
+}
+.cid-bg2 .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-bg2 .mbr-author-desc {
+  color: #232;
+}
+.cid-bg2 .testimonial-text SPAN {
+  color: #223322;
+}
 .cid-rbJp73IJOH {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1755,9 +1776,9 @@ body {
   }
 }
 .cid-rbK2LG1o0c {
-  padding-top: 60px;
+  padding-top: 10px;
   padding-bottom: 60px;
-  background-color: #2a343e;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-rbK2LG1o0c .content {
